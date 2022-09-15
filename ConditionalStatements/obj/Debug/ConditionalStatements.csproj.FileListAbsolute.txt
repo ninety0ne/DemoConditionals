@@ -1,0 +1,16 @@
+C:\Users\ben\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
+C:\Users\ben\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe
+C:\Users\ben\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
+C:\Users\ben\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.AssemblyReference.cache
+C:\Users\ben\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.SuggestedBindingRedirects.cache
+C:\Users\ben\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\MainWindow.g.cs
+C:\Users\ben\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\App.g.cs
+C:\Users\ben\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements_MarkupCompile.cache
+C:\Users\ben\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements_MarkupCompile.lref
+C:\Users\ben\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\MainWindow.baml
+C:\Users\ben\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.g.resources
+C:\Users\ben\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.Properties.Resources.resources
+C:\Users\ben\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.exe
+C:\Users\ben\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.pdb

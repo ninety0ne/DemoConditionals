@@ -1,0 +1,23 @@
+﻿<Window x:Class="ConditionalStatements.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConditionalStatements"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <DockPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel>
+                <Button Name="btnCounter" Content="0" Width="100" Height="50" Click="btnCounter_Click"/>
+                <Button Content="If statement" Width="100" Height="50" Click="Button2_Click"/>
+            </StackPanel>
+
+            <StackPanel>
+                <Button Content="For" Width="100" Height="50" Click="btnFor_click"/>
+                <Button Content="While" Width="100" Height="50" Click="btnWhile_click"/>
+            </StackPanel>
+        </DockPanel>
+    </Grid>
+</Window>
